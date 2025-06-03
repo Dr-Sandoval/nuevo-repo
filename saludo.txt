@@ -7,3 +7,4 @@ Este cambio es hecho desde la rama master y Este cambio es hecho desde una rama 
 Cambios desde master para aprender a manejar el conflicto controlado
 Vamos a realizar un cambio bajo la rama theirs
 prueba de commit sin el mensaje
+Prueba del porque debemos usar git status antes del git add
