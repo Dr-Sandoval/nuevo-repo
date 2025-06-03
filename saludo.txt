@@ -4,3 +4,4 @@ Este es un saludo que cree desde la rama
 
 Este cambio es hecho desde la rama master y Este cambio es hecho desde una rama divergente
 
+Version de la rama conflicto-ours
