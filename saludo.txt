@@ -8,3 +8,4 @@ Cambios desde master para aprender a manejar el conflicto controlado
 Vamos a realizar un cambio bajo la rama theirs
 prueba de commit sin el mensaje
 Prueba del porque debemos usar git status antes del git add
+comprobar que pasa cuando hago un cambio en la misma linea
