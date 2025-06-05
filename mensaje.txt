@@ -1,2 +1,1 @@
-Este cambio lo hizo otro colaborador desde GitHub
-
+Este texto es exclusivo de Dabir desde local
